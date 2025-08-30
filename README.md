@@ -75,4 +75,7 @@ Comments Section
 
 📂 Project Setup
 
-Clone the repository:
+Clone the repository:    https://github.com/MydoomTech/YouTube-Clone.git
+
+cd YouTube-Clone
+
